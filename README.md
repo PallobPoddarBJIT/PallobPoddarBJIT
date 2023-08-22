@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PallobPoddarBJIT](https://github.com/PallobPoddarBJIT/)
+- 👨‍💻 All of my projects are available at [https://github.com/pallobpoddarbjit](https://github.com/pallobpoddarbjit/)
 
 - 💬 Ask me anything about **computer science**
 
